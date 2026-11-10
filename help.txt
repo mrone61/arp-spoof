@@ -1,0 +1,5 @@
+# Run with root privileges
+sudo python3 arp_spoofer.py -t 192.168.1.10 -g 192.168.1.1
+
+# Specify interface
+sudo python3 arp_spoofer.py -t 192.168.1.10 -g 192.168.1.1 -i eth0

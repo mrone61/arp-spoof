@@ -1,1 +1,2 @@
-scapy
+scapy==2.5.0
+netifaces==0.11.0
